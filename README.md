@@ -25,7 +25,7 @@ DISCLAIMER: THIS PROJECT IS NOT MEANT TO BE USED FOR UL INSTALLATIONS, I AM NOT 
 
 -- Just flash the .ino file to your board, not so hard.
 
--- This will create a wifi ap you need to connect to, the password is 345towire.
+-- This will create a wifi ap you need to connect to, the password is 345towire, and the IP is 192.168.4.1.
 
 -- Web interface password is admin/admin by default.
 
