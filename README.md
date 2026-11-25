@@ -19,7 +19,9 @@ DISCLAIMER: THIS PROJECT IS NOT MEANT TO BE USED FOR UL INSTALLATIONS, I AM NOT 
 
 ## Part III, Assembly and Software
 
--- Uses the default ESP32 Devkit V1 Pinout for CC1101/SPI so stop being lazy and figure it out yourself, no diagram here.
+-- Uses the default ESP32 Devkit V1 Pinout for CC1101/SPI pinout, image below
+
+[Pinout Diagram](pinout.png)
 
 -- Just flash the .ino file to your board, not so hard.
 
