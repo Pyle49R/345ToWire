@@ -23,7 +23,7 @@ DISCLAIMER: THIS PROJECT IS NOT MEANT TO BE USED FOR UL INSTALLATIONS, I AM NOT 
 
 [Pinout Diagram](pinout.png)
 
--- Just flash the .ino file to your board, not so hard.
+-- Just flash the .ino file to your board, file is located in releases, not so hard.
 
 -- This will create a wifi ap you need to connect to, the password is 345towire, and the IP is 192.168.4.1.
 
